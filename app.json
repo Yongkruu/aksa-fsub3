@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Yongkruu/File-aksa-fsub3",
-  "logo": "https://telegra.ph/file/5e6bf2962ce5004f141cc.jpg",
+  "logo": "https://telegra.ph/file/83a0e862370d2ab587036.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
